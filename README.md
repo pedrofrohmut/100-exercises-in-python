@@ -1,6 +1,6 @@
 # My 100 Exercises in Python
 
-this is my 100 exercises in python following the list from: Exercicios de 
+Estes são os meus 100 exercícios de Python 3 seguindo as aulas do Curso em Vídeo.
 
 Curso em Vídeo:
 
